@@ -5,8 +5,8 @@
 
 
 # Bytes code editor
-The code editor based on notepad made for creating java programs by myself as an challenge. This code editor havethe basic file management systems such as creating, opening, closing any files.
-It have the code runner functionality which helps user to compile (if their exist no errors) and run thier compiled code in the window and shows the output on the same window itself.
+The code editor based on Notepad was made for creating Java programs. This code editor uses basic file management systems such as creating, opening, and closing files.
+It has the code runner functionality which helps users compile (if there are no errors) and run their compiled code in the window and shows the output on the same window itself.
 
 
 ## Demo
