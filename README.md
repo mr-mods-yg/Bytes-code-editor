@@ -14,7 +14,8 @@ It has the code runner functionality which helps users compile (if there are no 
 ![image](https://github.com/mr-mods-yg/Bytes-code-editor/assets/62419230/c8c937cf-639e-4a7b-a79c-e05dd798ac21)
 ### Image 2
 ![image](https://github.com/mr-mods-yg/Bytes-code-editor/assets/62419230/ad9c1b18-a5aa-45b8-bfbc-4e2b6555d0ce)
-
+### Image 3
+![image](https://github.com/user-attachments/assets/48437540-9e1b-48d6-89fc-1da834def614)
 
 
 
